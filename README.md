@@ -28,7 +28,7 @@ The data is provided by Monash University Data Analytics Bootcamp.
 
 * Look across all previously generated figures and tables and write at least three observations or inferences that can be made from the data.
 
+---
+Contact:
 
-### Copyright
-
-Trilogy Education Services © 2020. All Rights Reserved.
+Email: thao.ph.ha@gmail.com
